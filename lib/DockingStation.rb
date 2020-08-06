@@ -9,4 +9,6 @@ class DockingStation
     @bike = bike
   end
 
+  attr_reader :bike
+
 end
